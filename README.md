@@ -53,9 +53,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=compact" alt="Top Languages" />
-/>
-  <img src="https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=grid" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=compact" alt="Top Languages Compact" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=grid" alt="Top Languages Grid" width="48%" />
 </p>
 
 ---
