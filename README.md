@@ -1,9 +1,9 @@
 # Hi there, I'm Jonathan Ramírez 👋 🚀
 ### Data Analyst | Business Intelligence & ETL Specialist
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pava-ramirez/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathan773)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.analista.datos.52@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanramir52@gmail.com)
 [![Location Badge](https://img.shields.io/badge/Location-Bogotá%2C%20Colombia-008751?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
