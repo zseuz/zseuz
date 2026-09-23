@@ -53,7 +53,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=jonathan773&show_icons=true&theme=tokyonight&count_private=true" alt="Jonathan's GitHub Stats" width="48%" ](https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=compact)
+  <img src="https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=compact" alt="Top Languages" />
 />
   <img src="https://ghstats.dev/api/langs?username=zseuz&theme=radical&layout=grid" alt="Top Languages" />
 </p>
