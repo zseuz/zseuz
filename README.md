@@ -63,5 +63,5 @@
 ### 📫 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/jonathan-ramirez](https://www.linkedin.com)
-* 📧 **Email:** [jonathan.analista.datos.52@gmail.com](mailto:jonathan.analista.datos.52@gmail.com)[cite: 11]
-* 📍 **Location:** Bogotá, Colombia[cite: 11]
+* 📧 **Email:** [jonathan.analista.datos.52@gmail.com](mailto:jonathan.analista.datos.52@gmail.com) | [jonathan.ramirez@crescend.com.co](mailto:jonathan.ramirez@crescend.com.co)
+* 📍 **Location:** Bogotá, Colombia
