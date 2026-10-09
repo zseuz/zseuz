@@ -1,17 +1,17 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jonathan%20Ram%C3%ADrez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%26%20BI%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Header" />
+# Jonathan Ramírez
+### Full Stack Developer | Data Analyst & BI Specialist
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=REST+APIs+with+Spring+Boot+and+FastAPI;Modern+interfaces+with+Angular+and+React;Power+BI+dashboards+and+optimized+SQL;Automation+with+Python+and+Playwright" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=REST+APIs+with+Spring+Boot+and+FastAPI;Modern+interfaces+with+Angular+and+React;Power+BI+dashboards+and+optimized+SQL;Automation+with+Python+and+Playwright" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pava-ramirez/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathan773)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.analista.datos.52@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zseuz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanramir52@gmail.com)
 ![Location](https://img.shields.io/badge/Bogot%C3%A1,_Colombia-008751?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -77,10 +77,12 @@ location:   Bogotá, Colombia
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jonathan773&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan773&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zseuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zseuz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=jonathan773&theme=tokyonight&hide_border=true" alt="Streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=zseuz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -91,9 +93,3 @@ location:   Bogotá, Colombia
 - 💼 **LinkedIn:** [jonathan-pava-ramirez](https://www.linkedin.com/in/jonathan-pava-ramirez/)
 - 📧 **Email:** [jonathanramir52@gmail.com](mailto:jonathanramir52@gmail.com) · [jonathan.analista.datos.52@gmail.com](mailto:jonathan.analista.datos.52@gmail.com)
 - 📍 **Location:** Bogotá, Colombia
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
-
-</div>
