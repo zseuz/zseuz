@@ -1,7 +1,6 @@
 <div align="center">
 
-# Jonathan Ramírez
-### Full Stack Developer · Data Analyst · BI · Cloud
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Jonathan%20Ram%C3%ADrez&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20BI%20%C2%B7%20Cloud&descSize=18&descAlignY=62" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=RESTful+APIs+with+Java+Spring+Boot%2C+PHP+and+Node.js;Modern+interfaces+with+Angular%2C+React+and+Vue.js;ETL+pipelines+and+RPA+with+Python+and+Playwright;Power+BI+dashboards+and+high-performance+SQL;AI-driven+development+with+LLMs" alt="Typing SVG" />
@@ -13,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zseuz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanramir52@gmail.com)
 ![Location](https://img.shields.io/badge/Bogot%C3%A1,_Colombia-008751?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=zseuz&style=for-the-badge&color=7c3aed&label=VIEWS)
 
 </div>
 
@@ -66,12 +66,10 @@ contact:
 
 <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,js,ts,angular,react,vue&perline=10&theme=dark" alt="Full stack" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,mysql,linux,git,github&perline=10&theme=dark" alt="Languages and tools" />
+<img src="https://skillicons.dev/icons?i=python,pandas,powerbi,mysql,linux,git,github&perline=10&theme=dark" alt="Data and tools" />
 <br/><br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -118,13 +116,9 @@ contact:
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=zseuz&show_icons=true&theme=radical&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zseuz&layout=compact&theme=radical&border_radius=12" alt="Top languages" />
 
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=zseuz&theme=radical&border_radius=12" alt="GitHub streak" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/7c3aed/zseuz" alt="Contribution calendar" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zseuz&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity graph" width="100%" />
 
 </div>
 
@@ -133,5 +127,7 @@ contact:
 ### 📫 Let's connect
 
 [jonathanramir52@gmail.com](mailto:jonathanramir52@gmail.com) · [jonathan.analista.datos.52@gmail.com](mailto:jonathan.analista.datos.52@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonathan-pava-ramirez/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
