@@ -48,6 +48,53 @@ contact:
 
 </div>
 
+## ⚡ What I Build
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Backend & APIs
+RESTful APIs and transactional modules with **Spring Boot**, **Laravel** and **Node.js**, built on clean relational models.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Frontend
+Responsive, interactive interfaces with **Angular**, **React** and **Vue.js**, focused on usability and operational flow.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔄 ETL & Automation
+RPA bots and ETL pipelines with **Python**, **Pandas** and **Playwright** for large-scale extraction and validation.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 BI & SQL
+**Power BI** dashboards, KPIs, dimensional modeling and tuned stored procedures on **SQL Server** and **MySQL**.
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Cloud & Linux
+Linux cloud servers, scheduled jobs with **cron** and secure database management.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI & LLMs
+**Claude** and **OpenAI** integrations, prompt engineering and AI-driven development.
+
+</td>
+</tr>
+</table>
+</div>
+
 ## 📡 `./skills --radar`
 
 <div align="center">
@@ -77,38 +124,6 @@ contact:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
-## 💼 Experience
-
-<details open>
-<summary><b>Data Analyst, Full Stack Developer & BI</b> · Athenea Crescend Business · <i>Jul 2023 – Aug 2026</i></summary>
-<br/>
-
-- Built RPA bots and ETL flows with Python (Pandas, Playwright) and LLM integration to process healthcare data (RIPS, XML, CUV) at scale, **cutting manual work by 80%**.
-- Administered Linux cloud servers for scheduled jobs (cron) and secure database management.
-- Developed transactional collections modules with PHP and Angular.
-- Optimized stored procedures and dimensional models in MySQL and SQL Server, **reducing query latency by 50%**.
-- Created Power BI dashboards and KPIs for real-time tracking of receivables, cash flow, and reconciliations.
-
-</details>
-
-<details>
-<summary><b>Web Developer & Backend Analyst</b> · Brander Ideas · <i>Oct 2022 – Mar 2023</i></summary>
-<br/>
-
-- Designed RESTful APIs in Java (Spring Boot) consumed by Angular interfaces.
-- Modeled relational databases to maximize the performance of large analytical reports.
-
-</details>
-
-<details>
-<summary><b>Systems Development & Analysis Apprentice</b> · Montechelo · <i>Jan 2020 – Jun 2020</i></summary>
-<br/>
-
-- Wrote unit tests and business-logic validations in PHP (Laravel).
-- Built dynamic Vue.js components to improve operational flow and UX.
-
-</details>
 
 ## 📈 GitHub Stats
 
