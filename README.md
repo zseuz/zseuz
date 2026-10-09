@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jonathan%20Ram%C3%ADrez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%26%20BI%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jonathan%20Ram%C3%ADrez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20BI%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=RESTful+APIs+with+Java+Spring+Boot%2C+PHP+and+Node.js;Modern+interfaces+with+Angular%2C+React+and+Vue.js;ETL+pipelines+and+RPA+with+Python+and+Playwright;Power+BI+dashboards+and+high-performance+SQL;AI-driven+development+with+LLMs" alt="Typing SVG" />
