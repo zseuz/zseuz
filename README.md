@@ -8,6 +8,7 @@
 
 <br/><br/>
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-zseuz.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zseuz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pava-ramirez/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zseuz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanramir52@gmail.com)
@@ -142,7 +143,7 @@ Linux cloud servers, scheduled jobs with **cron** and secure database management
 
 ### 📫 Let's connect
 
-[jonathanramir52@gmail.com](mailto:jonathanramir52@gmail.com) · [jonathan.analista.datos.52@gmail.com](mailto:jonathan.analista.datos.52@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonathan-pava-ramirez/)
+[jonathanramir52@gmail.com](mailto:jonathanramir52@gmail.com) · [jonathan.analista.datos.52@gmail.com](mailto:jonathan.analista.datos.52@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonathan-pava-ramirez/) · [Portafolio](https://zseuz.github.io/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
 
