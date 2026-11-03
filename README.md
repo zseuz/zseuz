@@ -185,8 +185,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=zseuz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&include_all_commits=true&title_color=C084FC&icon_color=22D3EE" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zseuz&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&title_color=C084FC" alt="Top languages" />
+<img height="175" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="175" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=zseuz&theme=tokyonight&hide_border=true&border_radius=14&ring=C084FC&fire=22D3EE&currStreakLabel=C084FC" alt="GitHub streak" />
 
